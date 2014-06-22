@@ -1,9 +1,7 @@
 DSS-Django
 ==========
 
-<<<<<<< HEAD
-Sistem Pendukung Keputusan Pemberian Beasiswa Berbasis Django
-=======
+
 Ini adalah "Sistem Pendukung Keputusan Pemberian Beasiswa Menggunakan Metode Profile Matching" berbasis Django.
 
 
@@ -58,5 +56,5 @@ DONE!
 Special Thanks
 --------------
 
-Puty Syakira  <3
+Puti Syakira  <3
 >>>>>>> 8f4ed19a1df3bac1e1bafa3a1f0987d373a40fd2
