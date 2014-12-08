@@ -31,10 +31,10 @@ Install semua modul yang dibutuhkan menggunakan pip,
 - Bootstrap 3
 
 
-Install
+How to Install
 -------
 
-Setelah membuat database di local, dan men-stup file Settings.py, ketik perintah2 berikut :
+Setelah membuat database di local dan men-setup file Settings.py, ketik perintah2 berikut :
 
 `$ git clone https://github.com/alzearafat/DSS-Django.git`
 
